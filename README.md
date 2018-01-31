@@ -19,11 +19,15 @@ npm install joi-intersection --save
 
 ### `groups: Function<Array<group: Array<String>>>`
 
+A group contains array of strings. 
+
 | Parameter             | Type              | Description                 |
 |-----------------------|-------------------|-----------------------------|
 | `group`               | `Array<String>`   | Allowed intersection groups |
 
 ### `singleton: Function<singleton: Array<String>>`
+
+Singletons contain arrays of strings.
 
 | Parameter             | Type              | Description                 |
 |-----------------------|-------------------|-----------------------------|
