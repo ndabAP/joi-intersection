@@ -17,7 +17,7 @@ npm install joi-intersection --save
 
 ## API
 
-### `groups: Function<Array<group: Array<String>>>`
+### `groups(<Array<group: Array<String>>>)`
 
 A group contains array of strings. 
 
@@ -25,7 +25,7 @@ A group contains array of strings.
 |-----------------------|-------------------|-----------------------------|
 | `group`               | `Array<String>`   | Allowed intersection groups |
 
-### `singleton: Function<singleton: Array<String>>`
+### `singleton(<singleton: Array<String>>)`
 
 Singletons contain arrays of strings.
 
