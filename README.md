@@ -25,7 +25,7 @@ A group contains array of strings.
 |-----------------------|-------------------|-----------------------------|
 | `group`               | `[group: string]` | Allowed intersection groups |
 
-### `singleton([singleton: String])`
+### `singleton([singleton: string])`
 
 Singletons contain arrays of strings.
 
