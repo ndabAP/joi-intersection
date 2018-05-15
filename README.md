@@ -17,13 +17,13 @@ npm install joi-intersection --save
 
 ## API
 
-### `groups([[group: String]])`
+### `groups([[group: string]])`
 
 A group contains array of strings. 
 
 | Parameter             | Type              | Description                 |
 |-----------------------|-------------------|-----------------------------|
-| `group`               | `[group: String]` | Allowed intersection groups |
+| `group`               | `[group: string]` | Allowed intersection groups |
 
 ### `singleton([singleton: String])`
 
