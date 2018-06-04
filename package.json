@@ -1,6 +1,6 @@
 {
   "name": "joi-intersection",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Validate against intersections of arrays and array singletons.",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,11 @@
     "url": "https://github.com/ndabAP/joi-intersection"
   },
   "dependencies": {
-    "joi": "^13.0.2"
+    "joi": "^13.3.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.10",
     "mocha": "^4.0.1"
   }
 }
