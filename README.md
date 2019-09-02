@@ -1,4 +1,4 @@
-# joi-intersection
+# NOT MAINTAINED joi-intersection
 
 Validate against intersections of arrays and array singletons. Provide an array of allowed groups and validate it 
 against a single intersection of a given group. Additionally, define an array of singletons and verify the input array 
